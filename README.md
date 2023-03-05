@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Docker for container creation, deployment, and management
+- 💬 Ask me about Docker, Ubuntu, Flask, PHP
+- 👯 I’m looking to collaborate on networking and Backend development
+- ⚡ Fun fact: Music (Piano , Guitar)
 <!--
 **LeScientifique/LeScientifique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
