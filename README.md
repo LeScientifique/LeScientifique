@@ -40,8 +40,8 @@ I work with technologies such as **Linux, Docker, Ansible, Kubernetes and OpenSh
 
 ## 📚 Formation / Education  
 
-🎓 **Licence en Systèmes et Réseaux – DEFITECH, Lomé (2020–2023)**
-🎓 **Master en Informatique et Systèmes – Université de Lomé et UTBM (2025–en-cours)**
+- 🎓 **Licence en Systèmes et Réseaux – DEFITECH, Lomé (2020–2023)**
+- 🎓 **Master en Informatique et Systèmes – Université de Lomé et UTBM (2025–en-cours)**
 
 ---
 
